@@ -3,8 +3,13 @@
 -1st Branch: Ai Moves and died on hit ✅
 
 -2nd Branch: Spawner creates new actors 
-
+Along with Spawner System i will implement 
 -3rd Branch: Wave System fully functional  (Start of it is done but need more work)
+
+Weapon System
+
+Health and Ammo
+
 
 -4th Branch: Multiplayer Replication (early stages in session)
 
